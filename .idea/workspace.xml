@@ -10,14 +10,18 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/img/tests_passed.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/19367103-8080-44c4-a1ba-0fbbc58706c8-testcase.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/1a12ac13-e7ce-45d5-b383-4863cc48246d-attachment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/33904fe8-4a9a-4559-bb85-649b3c5410ef-testcase.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/390cefd8-8e35-465a-8870-072fe09554a5-attachment.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/3c6edff4-8a02-41b6-b0a7-3f00e0eb3bc7-attachment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/3d6425e7-b67b-4d77-9236-9531ab23b892-attachment.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/3f7a13a0-5b38-4c1f-b571-d29b0276c545-attachment.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/40b8a2fe-02ac-4518-b206-09d779d98b07-testcase.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/4c135e99-a8c2-43fd-84f4-39f2a36bf0a3-attachment.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/6095d46d-fe14-4765-97e5-f653b1e9c3d0-testcase.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/7a14cb16-d374-405a-93aa-5ee516430389-attachment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/856828c9-ea0b-4c70-8f2a-6629d342f0a9-attachment.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/8a089adc-9061-4286-a070-16a6b3ae3dd4-testcase.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/8f808455-cad2-4198-aa83-2b794957ad09-testcase.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/91352189-260e-4cb9-9e2e-34e8d0886588-testcase.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/9ea12239-7c9e-4358-b197-162b0ac844dc-testcase.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/features/FeaturesCtrl.js" />
@@ -64,8 +68,10 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/defects.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/directives.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/charts/duration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/ea85ae0d-9ccd-4dca-8990-b8cf3c58baf5-testcase.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/errors.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/features.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/ffe4d8ed-0e01-4bc1-af37-7b8e67363f17-attachment.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/filters.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/fonts/glyphicons-halflings-regular.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/graph.html" />
@@ -86,6 +92,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/scrollfix/scrollfix.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/services.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/charts/severityMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/sign_up.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/testcase/status-switcher.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/testcase/statusSwitcher.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/table/table.html" />
@@ -102,7 +109,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/version.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/version.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/xunit.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.properties" afterPath="$PROJECT_DIR$/settings.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/sign_in.py" afterPath="$PROJECT_DIR$/tests/sign_in.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -125,13 +131,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sign_in.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sign_in.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0174103">
-              <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
               <folding>
-                <element signature="e#0#57#0" expanded="true" />
+                <element signature="e#21#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sign_up.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/sign_up.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2959739">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#21#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -141,7 +159,7 @@
         <entry file="file://$PROJECT_DIR$/settings.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -164,8 +182,9 @@
       <list>
         <option value="C:/Python27/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
         <option value="$PROJECT_DIR$/utils/sign_in.py" />
-        <option value="$PROJECT_DIR$/settings.properties" />
         <option value="$PROJECT_DIR$/tests/sign_in.py" />
+        <option value="$PROJECT_DIR$/settings.properties" />
+        <option value="$PROJECT_DIR$/tests/sing_up.py" />
       </list>
     </option>
   </component>
@@ -201,8 +220,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -251,6 +268,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,95 +283,7 @@
       <recent name="D:\app\BZMApplication\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittest BZW_42.test_empty_data">
-    <configuration default="false" name="Unittest BZW_44.test_login_logout (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="BZMApplication" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/sign_in.py" />
-      <option name="CLASS_NAME" value="BZW_44" />
-      <option name="METHOD_NAME" value="test_login_logout" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in sign_in" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="BZMApplication" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/sign_in.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in BZW_44 (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="BZMApplication" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/sign_in.py" />
-      <option name="CLASS_NAME" value="BZW_44" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in BZW_44 (2)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="BZMApplication" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/sign_in.py" />
-      <option name="CLASS_NAME" value="BZW_44" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in BZW_38">
     <configuration default="false" name="Unittest BZW_42.test_empty_data" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -368,6 +299,94 @@
       <option name="METHOD_NAME" value="test_empty_data" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in sign_up" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BZMApplication" />
+      <option name="SCRIPT_NAME" value="D:\app\BZMApplication\tests\sign_up.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest BZW_38.test_register_new_user" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BZMApplication" />
+      <option name="SCRIPT_NAME" value="D:\app\BZMApplication\tests\sign_up.py" />
+      <option name="CLASS_NAME" value="BZW_38" />
+      <option name="METHOD_NAME" value="test_register_new_user" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in BZW_38" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BZMApplication" />
+      <option name="SCRIPT_NAME" value="D:\app\BZMApplication\tests\sign_up.py" />
+      <option name="CLASS_NAME" value="BZW_38" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in BZW_38" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BZMApplication" />
+      <option name="SCRIPT_NAME" value="D:\app\BZMApplication\tests\sign_up.py" />
+      <option name="CLASS_NAME" value="BZW_38" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -498,19 +517,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest BZW_44.test_login_logout (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_44 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_44 (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest BZW_42.test_empty_data" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest BZW_42.test_empty_data" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sign_up" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest BZW_38.test_register_new_user" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_38" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_38" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest BZW_42.test_empty_data" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_44 (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest BZW_44.test_login_logout (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_44 (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_38" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sign_up" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_38" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest BZW_38.test_register_new_user" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest BZW_42.test_empty_data" />
       </list>
     </recent_temporary>
   </component>
@@ -543,7 +562,13 @@
       <option name="project" value="LOCAL" />
       <updated>1438006061242</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add test BZW-42, change test">
+      <created>1438012824986</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1438012824986</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -552,7 +577,6 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -563,6 +587,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39915523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -578,34 +603,24 @@
     <MESSAGE value="add project" />
     <MESSAGE value="add settings" />
     <MESSAGE value="ww" />
-    <option name="LAST_COMMIT_MESSAGE" value="ww" />
+    <MESSAGE value="add test BZW-42, change test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test BZW-42, change test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="28" />
+      <option name="time" value="43" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="tests">
-        <watch expression="driver" language="Python" />
-        <watch expression="self.driver" language="Python" />
-        <watch expression="self.url + '/sign-in'" language="Python" />
-        <watch expression="self.driver.title" language="Python" />
-        <watch expression="assert_almost_equal(self.driver.title, 'Sing In | BlazeMeter')" language="Python" />
-        <watch expression="self.driver.title.__contains__('Sing In | BlazeMeter')" language="Python" />
-        <watch expression="self.driver.title" language="Python" />
-        <watch expression="self.driver.title.__contains__('Sign in | BlazeMeter')" language="Python" />
-        <watch expression="self.driver.find_element_by_xpath(&quot;//button[text()='Start the test']&quot;)" language="Python" />
-        <watch expression="self.driver.find_element_by_xpath(&quot;//button[text()='Start the test']&quot;).is_displayed()" language="Python" />
-        <watch expression="self.driver.find_element_by_xpath(&quot;//div[@id='main-frame']&quot;).is_displayed()" language="Python" />
-        <watch expression="self.driver.find_element_by_css_selector(&quot;#main-frame &gt; header &gt; div.history-nav-bar.dropdown-container&quot;)" language="Python" />
-        <watch expression="e.is_displayed()" language="Python" />
-        <watch expression="e._id" language="Python" />
-        <watch expression="e._parent" language="Python" />
-        <watch expression="e.parent" language="Python" />
-        <watch expression="self.driver.find_element_by_xpath(&quot;//div[@class='menu-item-container']&quot;).is_enabled()" language="Python" />
-        <watch expression="self.driver.find_element_by_xpath(&quot;//button[text()='Start the test']&quot;).is_enabled()" language="Python" />
-        <watch expression="driver.find_element_by_class_name('menu-item-link')" language="Python" />
-        <watch expression="driver.find_element_by_name('email').get_attribute(&quot;value&quot;)" language="Python" />
+        <watch expression="str(driver.title)" language="Python" />
+        <watch expression="driver.title.__contains__('Sign up | BlazeMeter')" language="Python" />
+        <watch expression="str(driver.title).__contains__(&quot;Sign up | BlazeMeterQA&quot;)" language="Python" />
+        <watch expression="driver.title.__contains__('Sign Up | BlazeMeterQA')" language="Python" />
+        <watch expression="str(driver.title).__contains__('Sign up | BlazeMeter')" language="Python" />
+        <watch expression="str(driver.title).__contains__('Sign up | BlazeMeter')" language="Python" />
+        <watch expression="driver.find_element_by_xpath(&quot;//div[@class='stat-block']//h2&quot;)" language="Python" />
+        <watch expression="welcome_message.text" language="Python" />
+        <watch expression="str(welcome_message.text).__eq__(&quot;Hi, &quot; + first_name +&quot; &quot; + last_name)" language="Python" />
       </configuration>
     </watches-manager>
   </component>
@@ -613,9 +628,45 @@
     <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#57#0" expanded="true" />
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/grail/step_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -663,23 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/grail/steps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,6 +721,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33271718">
           <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/grail/steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19586506">
+          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -699,12 +758,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
+    <entry file="file://$PROJECT_DIR$/tests/sign_up.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0174103">
-          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.2959739">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#0#57#0" expanded="true" />
+            <element signature="e#21#30#0" expanded="true" />
           </folding>
         </state>
       </provider>

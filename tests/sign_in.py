@@ -1,7 +1,3 @@
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-
 __author__ = 'Olga'
 
 import os
@@ -9,7 +5,6 @@ import ConfigParser
 from selenium import webdriver
 from grail import BaseTest, step
 from nose.tools import assert_is, eq_
-
 
 def setup_class():
     global url
@@ -31,14 +26,6 @@ def setup_class():
     driver = webdriver.Chrome(chromedriver)
     driver.get(url)
     driver.implicitly_wait(implicit_timeout)
-    return set_driver(driver)
-
-def set_driver(dr):
-    return dr
-
-def get_driver():
-    if driver:
-        return driver
 
 class BZW_42(BaseTest):
     def test_empty_data(self):
