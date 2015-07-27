@@ -57,7 +57,7 @@ class BZW_42(BaseTest):
 
 class BZW_41(BaseTest):
 
-    def test_login_logout(self):
+    def test_page_elements(self):
         setup_class()
         self.open_sign_in_page()
         self.verify_elements()
