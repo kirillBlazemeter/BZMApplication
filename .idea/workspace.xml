@@ -1,115 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1abf3bee-7de2-4ef0-b4a1-53b6d64a6d9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/img/allure-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/flash/clippy.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/img/tests_passed.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/19367103-8080-44c4-a1ba-0fbbc58706c8-testcase.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/1a12ac13-e7ce-45d5-b383-4863cc48246d-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/33904fe8-4a9a-4559-bb85-649b3c5410ef-testcase.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/390cefd8-8e35-465a-8870-072fe09554a5-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/3c6edff4-8a02-41b6-b0a7-3f00e0eb3bc7-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/3d6425e7-b67b-4d77-9236-9531ab23b892-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/3f7a13a0-5b38-4c1f-b571-d29b0276c545-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/40b8a2fe-02ac-4518-b206-09d779d98b07-testcase.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/4c135e99-a8c2-43fd-84f4-39f2a36bf0a3-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/6095d46d-fe14-4765-97e5-f653b1e9c3d0-testcase.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/7a14cb16-d374-405a-93aa-5ee516430389-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/856828c9-ea0b-4c70-8f2a-6629d342f0a9-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/8a089adc-9061-4286-a070-16a6b3ae3dd4-testcase.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/8f808455-cad2-4198-aa83-2b794957ad09-testcase.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/91352189-260e-4cb9-9e2e-34e8d0886588-testcase.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/9ea12239-7c9e-4358-b197-162b0ac844dc-testcase.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/features/FeaturesCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/acfec0bd-39ac-418d-a823-cfcd29daa8b9-testcase.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-animate.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-animate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-cookies.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-cookies.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-loader.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-loader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-resource.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/plugins/angular-route-segment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-route.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-sanitize.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-sanitize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-touch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-touch.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular-touch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/plugins/angular-ui-router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/plugins/angular-ui-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/testcase/attachment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/b0be8a44-0e83-4db9-88ba-204448e03b33-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/behavior.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/charts/charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/xUnit/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/d3/d3.v3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/d3/d3.v3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/defects.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/defects/defects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/defects.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/charts/duration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/ea85ae0d-9ccd-4dca-8990-b8cf3c58baf5-testcase.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/errors.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/features.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/ffe4d8ed-0e01-4bc1-af37-7b8e67363f17-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/graph.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/graph.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/jquery/jquery-2.0.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/jquery/jquery-2.0.3.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/testcase/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/testcase/list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/plugins/localstorageprovider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/pane/pane.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/charts/pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/testcase/provider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/rainbow/rainbow-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/rainbow/rainbow-xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/rainbow/rainbow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/scrollfix/scrollfix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/charts/severityMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/sign_up.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/testcase/status-switcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/testcase/statusSwitcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/table/table.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/table/table.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/testcase/testcase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/testcase/testcase.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/testcase/testcaseView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/xUnit/testrun.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/xUnit/testsuite.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/templates/timeline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/js/charts/timeline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/plugins/ui-bootstrap-tpls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/plugins/ui-bootstrap-tpls.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/version.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/vendor/angular/version.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure-report/data/xunit.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/sign_in.py" afterPath="$PROJECT_DIR$/tests/sign_in.py" />
+    <list default="true" id="1abf3bee-7de2-4ef0-b4a1-53b6d64a6d9f" name="Default" comment="add new test suite Sign Up and test BZW-38, edit Sign In">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/BZMApplication.iml" afterPath="$PROJECT_DIR$/.idea/BZMApplication.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/sign_up.py" afterPath="$PROJECT_DIR$/tests/sign_up.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BZMApplication.iws" />
@@ -131,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sign_in.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sign_in.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.49945593">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
               <folding>
                 <element signature="e#21#30#0" expanded="true" />
               </folding>
@@ -143,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sign_up.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sign_up.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/sign_up.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2959739">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="e#21#30#0" expanded="true" />
               </folding>
@@ -158,7 +54,7 @@
       <file leaf-file-name="settings.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-3.148148">
               <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding />
             </state>
@@ -175,6 +71,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -182,9 +79,13 @@
       <list>
         <option value="C:/Python27/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
         <option value="$PROJECT_DIR$/utils/sign_in.py" />
-        <option value="$PROJECT_DIR$/tests/sign_in.py" />
         <option value="$PROJECT_DIR$/settings.properties" />
         <option value="$PROJECT_DIR$/tests/sing_up.py" />
+        <option value="$PROJECT_DIR$/utils/driver.py" />
+        <option value="$PROJECT_DIR$/tests/__init__.py" />
+        <option value="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" />
+        <option value="$PROJECT_DIR$/tests/sign_in.py" />
+        <option value="$PROJECT_DIR$/tests/sign_up.py" />
       </list>
     </option>
   </component>
@@ -207,6 +108,9 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -220,6 +124,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,53 +144,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BZMApplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BZMApplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BZMApplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BZMApplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="282" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="310" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="312" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="986" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="304" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="303" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="304" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="979" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="BZMApplication" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="BZMApplication" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\app\BZMApplication\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in BZW_38">
-    <configuration default="false" name="Unittest BZW_42.test_empty_data" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in sign_in">
+    <configuration default="false" name="Unittests in sign_in" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -295,28 +196,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="BZMApplication" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/sign_in.py" />
-      <option name="CLASS_NAME" value="BZW_42" />
-      <option name="METHOD_NAME" value="test_empty_data" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in sign_up" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="BZMApplication" />
-      <option name="SCRIPT_NAME" value="D:\app\BZMApplication\tests\sign_up.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -328,7 +207,7 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest BZW_38.test_register_new_user" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in sign_in (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -338,11 +217,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="BZMApplication" />
-      <option name="SCRIPT_NAME" value="D:\app\BZMApplication\tests\sign_up.py" />
-      <option name="CLASS_NAME" value="BZW_38" />
-      <option name="METHOD_NAME" value="test_register_new_user" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/sign_in.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -350,7 +229,7 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in BZW_38" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in sign_in (2)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -360,11 +239,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="BZMApplication" />
-      <option name="SCRIPT_NAME" value="D:\app\BZMApplication\tests\sign_up.py" />
-      <option name="CLASS_NAME" value="BZW_38" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/sign_in.py" />
+      <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -372,7 +251,7 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in BZW_38" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in sign_in (3)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -382,11 +261,33 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="BZMApplication" />
-      <option name="SCRIPT_NAME" value="D:\app\BZMApplication\tests\sign_up.py" />
-      <option name="CLASS_NAME" value="BZW_38" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/sign_in.py" />
+      <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in sign_in (4)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BZMApplication" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/sign_in.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -517,19 +418,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest BZW_42.test_empty_data" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sign_up" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest BZW_38.test_register_new_user" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_38" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_38" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_38" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sign_up" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in BZW_38" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest BZW_38.test_register_new_user" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest BZW_42.test_empty_data" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in (4)" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in sign_in (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -568,24 +469,30 @@
       <option name="project" value="LOCAL" />
       <updated>1438012824986</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add new test suite Sign Up and test BZW-38, edit Sign In">
+      <created>1438018114224</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1438018114224</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39915523" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39915523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39915523" sideWeight="0.49583334" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -596,6 +503,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -604,11 +519,19 @@
     <MESSAGE value="add settings" />
     <MESSAGE value="ww" />
     <MESSAGE value="add test BZW-42, change test" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test BZW-42, change test" />
+    <MESSAGE value="add new test suite Sign Up and test BZW-38, edit Sign In" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new test suite Sign Up and test BZW-38, edit Sign In" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="43" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="45" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="tests">
@@ -625,6 +548,182 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -649,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,7 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -698,7 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33271718">
           <caret line="204" column="0" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,14 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33271718">
           <caret line="328" column="0" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -724,29 +812,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
-          <folding>
-            <element signature="e#21#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/site-packages/grail/steps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19586506">
           <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,19 +823,89 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5005441">
           <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/utrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5179543">
+          <caret line="2358" column="0" selection-start-line="2358" selection-start-column="0" selection-end-line="2358" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.148148">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018498369">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/sign_up.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2959739">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="e#21#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8150163">
+          <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/sign_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49945593">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
