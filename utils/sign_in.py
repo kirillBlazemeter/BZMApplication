@@ -10,13 +10,11 @@ from selenium import webdriver
 from grail import BaseTest, step
 from nose.tools import assert_is, eq_
 
-username = 'olga@blazemeter.com'
-password = '12345678'
-
-
 def setup_class():
     global url
     global implicit_timeout
+    global username
+    global password
     config = ConfigParser.RawConfigParser()
     path = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
     config.read(os.path.join(path, 'settings.properties'))
@@ -24,6 +22,8 @@ def setup_class():
     os.environ["webdriver.chrome.driver"] = chromedriver
     url = config.get('urlSection', 'url')
     implicit_timeout = config.get('driverSection', 'implicit.timeout')
+    username = config.get('dataSection', 'username')
+    password = config.get('dataSection', 'password')
     driver = webdriver.Chrome(chromedriver)
     driver.get(url)
     driver.implicitly_wait(implicit_timeout)
