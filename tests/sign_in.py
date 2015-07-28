@@ -39,9 +39,9 @@ class BZW_41(BaseTest):
 
     @step
     def verify_elements(self):
-        assert_is(self.page.is_logo_displayed(driver), True)
-        assert_is(driver.find_element_by_xpath("//a[@class='btn btn-Google']").is_displayed(), True)
-        assert_is(driver.find_element_by_xpath("//p[@class='help-block']").is_displayed(), True)
+        assert_is(self.page.is_logo_displayed(driver), True, "BlazeMeter logo is not displayed")
+        assert_is(self.page.is_google_button_displayed(driver), True, "'Sing in with Google' button is not displayed")
+        assert_is(self.page.is_help_block_displayed(driver), True)
         assert_is(driver.find_element_by_name('email').is_displayed(), True)
         assert_is(driver.find_element_by_name('password').is_displayed(), True)
         assert_is(driver.find_element_by_xpath("//button[@type='submit']").is_displayed(), True)
