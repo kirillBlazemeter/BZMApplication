@@ -1,10 +1,14 @@
 __author__ = 'Olga'
 
 import os
-import ConfigParser
-from selenium import webdriver
+import sys
+from selenium.webdriver.common.keys import Keys
 from grail import BaseTest, step
 from nose.tools import assert_is, eq_
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+from utils.driver import start_driver
+from utils.sign_in_page import SignIn
+
 
 def setup_class():
     global url
@@ -13,23 +17,61 @@ def setup_class():
     global username
     global password
     global driver
-    config = ConfigParser.RawConfigParser()
-    path = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
-    config.read(os.path.join(path, 'settings.properties'))
-    chromedriver = config.get('BrowserSection', 'chromedriver')
-    os.environ["webdriver.chrome.driver"] = chromedriver
-    url = config.get('urlSection', 'url')
-    implicit_timeout = config.get('driverSection', 'implicit.timeout')
-    wait_timeout = config.get('driverSection', 'wait.timeout')
-    username = config.get('dataSection', 'username')
-    password = config.get('dataSection', 'password')
-    driver = webdriver.Chrome(chromedriver)
-    driver.get(url)
-    driver.implicitly_wait(implicit_timeout)
+    driver, wait_timeout, implicit_timeout, url, username, password = start_driver()
+
+
+class BZW_41(BaseTest):
+
+    def test_page_elements(self):
+        setup_class()
+        self.open_sign_in_page()
+        self.verify_elements()
+        self.click_to_website_logo()
+        self.close_the_tab()
+        self.check_remember_me_checkbox()
+        self.uncheck_remember_me_checkbox()
+
+    @step
+    def open_sign_in_page(self):
+        self.page = SignIn(driver, url, implicit_timeout)
+        self.page.open(driver)
+        eq_(self.page.get_title(driver).__contains__('Sign in | BlazeMeter'), True)
+
+    @step
+    def verify_elements(self):
+        assert_is(self.page.is_logo_displayed(driver), True)
+        assert_is(driver.find_element_by_xpath("//a[@class='btn btn-Google']").is_displayed(), True)
+        assert_is(driver.find_element_by_xpath("//p[@class='help-block']").is_displayed(), True)
+        assert_is(driver.find_element_by_name('email').is_displayed(), True)
+        assert_is(driver.find_element_by_name('password').is_displayed(), True)
+        assert_is(driver.find_element_by_xpath("//button[@type='submit']").is_displayed(), True)
+        assert_is(driver.find_element_by_xpath("//input[@type='checkbox']").is_displayed(), True)
+        assert_is(driver.find_element_by_xpath("//a[@class='forgot-password']").is_displayed(), True)
+
+    @step
+    def click_to_website_logo(self):
+        elem = driver.find_element_by_xpath("//img[@class='top-logo-image']/parent::a")
+        elem.click()
+        eq_(driver.title.__contains__('Sign in | BlazeMeter'), True)
+
+    @step
+    def close_the_tab(self):
+        driver.find_element_by_tag_name('body').send_keys(Keys.CONTROL + 'w')
+
+    @step
+    def check_remember_me_checkbox(self):
+        box = driver.find_element_by_xpath("//input[@class='remember-me-check']")
+        box.click()
+        assert_is(box.is_selected(), True)
+
+    @step
+    def uncheck_remember_me_checkbox(self):
+        box = driver.find_element_by_xpath("//input[@class='remember-me-check']")
+        box.click()
+        assert_is(box.is_selected(), False)
 
 class BZW_42(BaseTest):
     def test_empty_data(self):
-        setup_class()
         self.open_sign_in_page()
         self.leave_empty_fields_and_sign_in()
         self.verify_action()
@@ -51,14 +93,13 @@ class BZW_42(BaseTest):
 
 
 class BZW_44(BaseTest):
-
     def test_login_logout(self):
         self.open_sign_in_page()
         self.type_username()
         self.type_password()
         self.remember_me_uncheck()
         self.click_sign_in()
-        self.logout()
+        #self.logout()
 
     @step
     def open_sign_in_page(self):
