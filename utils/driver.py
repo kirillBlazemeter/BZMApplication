@@ -5,6 +5,7 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
 
 def start_driver():
@@ -42,3 +43,13 @@ def is_element_present(wdriver, by, locator, timeout=10):
             return False
     finally:
         wdriver.implicitly_wait(implicit_timeout)
+
+
+def get_element(wdriver, by, locator):
+    return wdriver.find_element(by, locator)
+
+
+def wait_for_element(wdriver, by, locator):
+    wait = WebDriverWait(wdriver, wait_timeout)
+    if by.__eq__("css selector"):
+        wait.until(lambda wdriver: wdriver.find_element_by_css_selector(locator))

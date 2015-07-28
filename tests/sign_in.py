@@ -39,20 +39,28 @@ class BZW_41(BaseTest):
 
     @step
     def verify_elements(self):
-        assert_is(self.page.is_logo_displayed(driver), True, "BlazeMeter logo is not displayed")
-        assert_is(self.page.is_google_button_displayed(driver), True, "'Sing in with Google' button is not displayed")
-        assert_is(self.page.is_help_block_displayed(driver), True)
-        assert_is(driver.find_element_by_name('email').is_displayed(), True)
-        assert_is(driver.find_element_by_name('password').is_displayed(), True)
-        assert_is(driver.find_element_by_xpath("//button[@type='submit']").is_displayed(), True)
-        assert_is(driver.find_element_by_xpath("//input[@type='checkbox']").is_displayed(), True)
-        assert_is(driver.find_element_by_xpath("//a[@class='forgot-password']").is_displayed(), True)
+        self.page.wait_for_element(driver, SignIn.logo)
+        assert_is(self.page.is_element_displayed(driver, SignIn.logo), True,
+                  "BlazeMeter logo is not displayed")
+        assert_is(self.page.is_element_displayed(driver, SignIn.sign_in_google_button), True,
+                  "'Sing in with Google' button is not displayed")
+        assert_is(self.page.is_element_displayed(driver, SignIn.help_block), True,
+                  "Information about using SAML is not displayed")
+        assert_is(self.page.is_element_displayed(driver, SignIn.email), True,
+                  "'Email' field is not displayed")
+        assert_is(self.page.is_element_displayed(driver, SignIn.password), True,
+                  "'Password' field is not displayed")
+        assert_is(self.page.is_element_displayed(driver, SignIn.sign_in_button), True,
+                  "'Sign in' button is not displayed")
+        assert_is(self.page.is_element_displayed(driver, SignIn.remember_me_checkbox), True,
+                  "'Remember me' checkbox is not displayed")
+        assert_is(self.page.is_element_displayed(driver, SignIn.forgot_password_link), True,
+                  "'Forgot your password' link is not displayed")
 
     @step
     def click_to_website_logo(self):
-        elem = driver.find_element_by_xpath("//img[@class='top-logo-image']/parent::a")
-        elem.click()
-        eq_(driver.title.__contains__('Sign in | BlazeMeter'), True)
+        self.page.click_on_logo(driver)
+        eq_(self.page.get_title(driver).__contains__('Sign in | BlazeMeter'), True)
 
     @step
     def close_the_tab(self):
