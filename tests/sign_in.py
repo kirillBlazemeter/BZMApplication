@@ -58,7 +58,7 @@ class BZW_42(BaseTest):
 class BZW_41(BaseTest):
 
     def test_page_elements(self):
-        setup_class()
+        # setup_class()
         self.open_sign_in_page()
         self.verify_elements()
         self.click_to_website_logo()
@@ -105,8 +105,8 @@ class BZW_41(BaseTest):
         box.click()
         assert_is(box.is_selected(), False)
 
-    def tearDown(self):
-        driver.close()
+    # def tearDown(self):
+    #     driver.close()
 
 class BZW_44(BaseTest):
 
