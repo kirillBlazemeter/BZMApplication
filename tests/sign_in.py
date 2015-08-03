@@ -39,7 +39,6 @@ class BZW_41(BaseTest):
 
     @step
     def verify_elements(self):
-        self.page.wait_for_element(driver, SignIn.logo)
         assert_is(self.page.is_element_displayed(driver, SignIn.logo), True,
                   "BlazeMeter logo is not displayed")
         assert_is(self.page.is_element_displayed(driver, SignIn.sign_in_google_button), True,
@@ -60,7 +59,7 @@ class BZW_41(BaseTest):
     @step
     def click_to_website_logo(self):
         self.page.click_on_logo(driver)
-        eq_(self.page.get_title(driver).__contains__('Sign in | BlazeMeter'), True)
+        eq_(self.page.title_present(driver, 'Test Automation for DevOps'), True)
 
     @step
     def close_the_tab(self):
@@ -68,15 +67,11 @@ class BZW_41(BaseTest):
 
     @step
     def check_remember_me_checkbox(self):
-        box = driver.find_element_by_xpath("//input[@class='remember-me-check']")
-        box.click()
-        assert_is(box.is_selected(), True)
+        assert_is(self.page.check_remember_me_checkbox(True), True)
 
     @step
     def uncheck_remember_me_checkbox(self):
-        box = driver.find_element_by_xpath("//input[@class='remember-me-check']")
-        box.click()
-        assert_is(box.is_selected(), False)
+        assert_is(self.page.check_remember_me_checkbox(False), True)
 
 
 class BZW_42(BaseTest):

@@ -22,7 +22,7 @@ def start_driver():
     os.environ["webdriver.chrome.driver"] = chromedriver
     url = config.get('urlSection', 'url')
     implicit_timeout = config.get('driverSection', 'implicit.timeout')
-    wait_timeout = config.get('driverSection', 'wait.timeout')
+    wait_timeout = int(config.get('driverSection', 'wait.timeout'))
     username = config.get('dataSection', 'username')
     password = config.get('dataSection', 'password')
     driver = webdriver.Chrome(chromedriver)
@@ -52,4 +52,15 @@ def get_element(wdriver, by, locator):
 def wait_for_element(wdriver, by, locator):
     wait = WebDriverWait(wdriver, wait_timeout)
     if by.__eq__("css selector"):
-        wait.until(lambda wdriver: wdriver.find_element_by_css_selector(locator))
+        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, locator)))
+
+
+def title_present(wdriver, title):
+        try:
+            wait = WebDriverWait(wdriver, wait_timeout)
+            wait.until(EC.title_is(title))
+            return True
+        except TimeoutException:
+            return False
+        finally:
+            wdriver.implicitly_wait(implicit_timeout)

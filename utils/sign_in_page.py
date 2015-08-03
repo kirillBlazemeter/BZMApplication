@@ -1,7 +1,7 @@
 __author__ = 'Olga'
 
 from selenium.webdriver.common.by import By
-from driver import wait_for_element
+from driver import wait_for_element, title_present
 from selenium.common.exceptions import NoSuchElementException
 
 
@@ -41,10 +41,18 @@ class SignIn(object):
         self.driver = driver
         return self.driver.title
 
+    def title_present(self, driver, title_name):
+        self.driver = driver
+        title_present(driver, title_name)
+
+    def get_element(self, driver, elem):
+        self.driver = driver
+        return self.driver.find_element_by_css_selector(elem)
+
     def is_element_displayed(self, driver, elem):
         self.driver = driver
         try:
-            self.driver.find_element_by_css_selector(elem).is_displayed()
+            self.get_element(self.driver, elem).is_displayed()
             return True
         except NoSuchElementException:
             return False
@@ -57,11 +65,26 @@ class SignIn(object):
 
     def click(self, driver, element):
         self.driver = driver
-        elem = self.driver.find_element_by_css_selector(element)
+        elem = self.get_element(self.driver, element)
         elem.click()
 
     def click_on_logo(self, driver):
         self.driver = driver
         elem = self.driver.find_element_by_css_selector(self.logo)
         elem.click()
+        self.driver.switch_to_active_element()
+        return SignIn
+
+    def check_remember_me_checkbox(self, check):
+        box = self.get_element(self.driver, self.remember_me_checkbox)
+        if check:
+            if not box.is_selected():
+                box.click()
+        if not check:
+            if box.is_selected():
+                box.click()
+
+        return box.is_selected()
+
+
 
